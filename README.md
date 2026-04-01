@@ -147,3 +147,4 @@ make docker-rebuild
 ## 📝 License
 
 MIT# goper-uptime-decent
+# decentralized-uptime-monitoring
